@@ -1,4 +1,6 @@
-### Hi there 👋
+### <h1 align="center">Hi there, I'm Denis 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=den1aka1aki&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=den1aka1aki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
