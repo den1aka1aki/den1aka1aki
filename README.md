@@ -1,6 +1,5 @@
-<h1 align="center">Hi there, I'm Denis 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Learning React and JS</h3>
+# Hi there, I'm Denis ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### Computer science student
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
