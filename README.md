@@ -1,5 +1,6 @@
-### <h1 align="center">Hi there, I'm Denis 
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=den1aka1aki&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=den1aka1aki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
